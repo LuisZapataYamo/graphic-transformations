@@ -1,6 +1,6 @@
 # Two-Dimensional Transformation
 ## Description
-Software basic for the trasnformations traslation, escalation and rotation. Now the project is in two-dimesional trasnformations, but the proyection is working in three-dimesional transfomations
+Software basic for the transformations translation, escalation and rotation. Now the project is in two-dimensional transformations, but the projection of the project is in working in three-dimensional transformations also
 
 ## Requirements
 - Python 3.8
